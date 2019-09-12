@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 201909121027
+! Title: socheatsok78/.blackhole
+! Last modified: 12 Sep 2019 03:10 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/socheatsok78/.blackhole
+! Licence: https://github.com/socheatsok78/.blackhole
+!
+vidtech.cbsinteractive.com/uvpjs/*.js
+techrepublicmedia.akamaized.net/media/*
