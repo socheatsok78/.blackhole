@@ -8,3 +8,4 @@
 !
 vidtech.cbsinteractive.com/uvpjs/*.js
 techrepublicmedia.akamaized.net/media/*
+lightboxcdn.com/*
