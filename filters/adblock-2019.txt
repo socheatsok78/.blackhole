@@ -6,7 +6,12 @@
 ! Homepage: https://github.com/socheatsok78/.blackhole
 ! Licence: https://github.com/socheatsok78/.blackhole
 !
-vidtech.cbsinteractive.com/uvpjs/*.js
-techrepublicmedia.akamaized.net/media/*
-lightboxcdn.com/*
+cmacapps.com##.wpex-site-overlay
+cmacapps.com##.mdp-deblocker-wrapper
+cmacapps.com##.mdp-deblocker-blackout.active
+||vidtech.cbsinteractive.com/uvpjs/*.js
+||techrepublicmedia.akamaized.net/media/*
+||lightboxcdn.com/*
 ||static.makeuseof.com/wp-content/themes/makeuseof2016/scripts.min.js
+||stackpathdns.com/wp-content/cache/breeze-minification/js/breeze_*.js
+||feboni.info/dezaula.js
